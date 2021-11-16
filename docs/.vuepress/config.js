@@ -1,5 +1,5 @@
 module.exports = {
-    title: "My Blog",
+    title: "hayeslin-blob",
     description: "This is a blog.",
-    base: '/blog/' 
+    base: '/vuepress-demo/' 
   }
